@@ -23,7 +23,7 @@ public class ReportItem implements AbstractDO {
     private LocalDate date;
     private LocalTime time;
     private Procedure procedure;//spoljni kljuc ka proceduri
-    private long idReport; // za report da bi dohjvatili i upisali
+    private long idReport; // za report da bi dohvatili i upisali
 
 
 
